@@ -55,7 +55,7 @@ This is a learning-focused repository — suggestions, improvements, and pull re
 ##  Contact
 
 If you have any questions or want to collaborate, feel free to reach out!  
-🧑‍💻 GitHub: **[Kahkashan2708](https://github.com/Kahkashan2708)**
+GitHub: **[Kahkashan2708](https://github.com/Kahkashan2708)**
 
 ---
 
