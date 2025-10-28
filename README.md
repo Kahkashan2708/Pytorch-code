@@ -45,6 +45,26 @@ This repository contains multiple Jupyter notebooks implementing and experimenti
 - Jupyter Notebook
 
 ---
+## 🔥 PyTorch Documentation
+
+Here are some key official resources for PyTorch:
+
+ **Main Documentation**  
+https://pytorch.org/docs/stable/
+
+ **PyTorch Installation Guide**  
+https://pytorch.org/get-started/locally/
+
+ **Torchvision (Vision models & datasets)**  
+https://pytorch.org/vision/stable/
+
+ **Torchtext (NLP utilities)**  
+https://pytorch.org/text/stable/
+
+ **Tutorials – Learn by examples**  
+https://pytorch.org/tutorials/
+
+---
 
 ##  Contributing
 
